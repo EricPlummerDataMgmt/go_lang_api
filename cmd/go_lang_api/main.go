@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"net/http"
+	"github.com/ericplummerdatamgmt/go_lang_api/internal/routes"
 )
 
 func main() {
